@@ -16,8 +16,8 @@ Random graph generation for BA, ER, Geo, and WS types is also supported.
 To reproduce specific figures from the paper, follow these instructions:
 
 - **Case 1:** Load `A1GeoCase1.mat` and `A2GeoCase1.mat` for figures 2 and 3.
-- **Case 2:** Load `A1GeoCase2.mat` and `A2GeoCase2.mat` for figures D.13 and D.14.
-- **Case 3:** Load `A1GeoCase3.mat` and `A2GeoCase3.mat` for figures D.15 and D.16.
+- **Case 2:** Load `A1GeoCase2.mat` and `A2GeoCase2.mat` for figures 13 and 14.
+- **Case 3:** Load `A1GeoCase3.mat` and `A2GeoCase3.mat` for figures 15 and 16.
 
 ### Dual Programming and Embedding
 
@@ -25,9 +25,9 @@ The file `main_Embeding.m` is used to generate the results of dual programming a
 Similar to primal programming, the input is the adjacency matrix for each layer, and random graph generation is supported. 
 To reproduce specific figures from the paper, follow these instructions:
 
-- **Case 1:** Load `A1GeoCase1.mat` and `A2GeoCase1.mat` for figure 4. Load `A1WSCase1.mat` and `A2WSCase1.mat` for figure D.17.
-- **Case 2:** Load `A1GeoCase2.mat` and `A2GeoCase2.mat` for figure D.18.
-- **Case 3:** Load `A1GeoCase3.mat` and `A2GeoCase3.mat` for figure D.19.
+- **Case 1:** Load `A1GeoCase1.mat` and `A2GeoCase1.mat` for figure 4. Load `A1WSCase1.mat` and `A2WSCase1.mat` for figure 17.
+- **Case 2:** Load `A1GeoCase2.mat` and `A2GeoCase2.mat` for figure 18.
+- **Case 3:** Load `A1GeoCase3.mat` and `A2GeoCase3.mat` for figure 19.
 
 ### Well-Interconnected Graphs
 
